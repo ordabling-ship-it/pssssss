@@ -8,7 +8,7 @@ CORS(app)
 @app.route('/')
 def hello():
     return {
-        'message': 'pysne is running',
+        'message': 'pssssss is running',
         'status': 'ok'
     }
 
